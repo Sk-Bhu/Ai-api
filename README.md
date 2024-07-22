@@ -1,1 +1,1 @@
-list of AI coding activties during internship
+List of AI coding activties during internship
